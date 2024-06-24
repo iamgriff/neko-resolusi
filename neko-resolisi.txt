@@ -1,4 +1,7 @@
-belaja github secara bertahap : 
+1. belaja github secara bertahap : 
 -mengerti github
 -bekerja dengan github
 -semakin mahir menggunakan github
+2. belajar css
+3. belajar php
+4. belajar framwork
