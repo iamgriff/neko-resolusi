@@ -1,0 +1,4 @@
+Rencana : 
+-belajar css
+ * dari dasar
+ * kuasai implementasi css 
