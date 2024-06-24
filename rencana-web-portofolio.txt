@@ -1,5 +1,6 @@
 Rencana : 
 -belajar css
  * dari dasar
- * kuasai implementasi css 
-    > implementasi ke php dasar
+    > full css
+ * kuasai implementasi css  
+    > implementasi ke php dan framework
