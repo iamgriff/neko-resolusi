@@ -1,3 +1,4 @@
 belaja github secara bertahap : 
 -mengerti github
 -bekerja dengan github
+-semakin mahir menggunakan github
