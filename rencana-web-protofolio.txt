@@ -1,2 +1,3 @@
 Rencana : 
 -belajar css
+  * dari dasar 
